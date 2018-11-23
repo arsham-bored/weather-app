@@ -1,0 +1,60 @@
+
+body {
+	padding-top: 5%;
+}
+
+.today-col {
+	justify-content: center;
+	display: flex;
+	margin: 0 auto;
+	margin-bottom: 25px;
+}
+
+.Ripple-parent img {
+	margin: 0 auto;
+}
+
+.weather-col {
+	margin: 0 auto;
+	margin-bottom: 25px;
+}
+
+.weather-col div {
+	margin: 0 auto;	
+}
+
+.today-col div {
+	margin: 0 auto;
+}
+
+.MyRow {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.card-text img {
+	width: 3rem;
+    position: absolute;
+    top: -10%;
+    left: -3%;
+    /* border: 13px solid #fff; */
+}
+
+.github-option div {
+	margin: 0 auto;
+	padding: 0 !important;
+}
+
+.git-con {
+	margin-top: 8px !important;
+}
+
+.git-con * {
+	color: red;
+	cursor: pointer;
+}
+
+.pointer {
+	cursor: pointer;
+}
